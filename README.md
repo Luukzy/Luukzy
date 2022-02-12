@@ -1,4 +1,7 @@
-## Olá! Seja bem-vindo ao meu GitHub!
+## Hi, i'm Luiz
+
+ - 🔥 A future Software Engineer.
+ - 🎓Learning Front End & Back End.
  <div>
   <a href="https://github.com/Luukzy">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luukzy&show_icons=true&theme=radical"/>
