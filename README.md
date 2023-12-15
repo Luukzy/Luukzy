@@ -16,7 +16,4 @@
   <img align="center" alt="Luukzy-Node" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/nodejs_small.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
- 
- ![Snake animation](https://github.com/Luukzy/Luukzy/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
